@@ -1,0 +1,6 @@
+name: My First Custom Module
+# specify the type
+type: module 
+# modules compatible with
+core: '8.x'
+description: 'My first Drupal module'

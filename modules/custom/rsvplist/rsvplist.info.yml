@@ -1,0 +1,9 @@
+name: RSVP List
+# specify the type
+type: module 
+# modules compatible with
+core: '8.x'
+description: 'RSVP list'
+packages: RSVP List
+version: 0.1
+configuration: rsvplist.admin_settings
